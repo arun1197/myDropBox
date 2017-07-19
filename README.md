@@ -11,21 +11,21 @@ Once you’ve executed this command, you’ll see something like this
 
 Just follow these commands in order to use the application.
 
-- To register: enter <newuser username password password>
+- To register: enter "newuser username password password"
 
-- To login: enter <login username password>
+- To login: enter "login username password"
 
-- To upload a file: enter <put filename filepath>
+- To upload a file: enter "put filename filepath"
 
-- To download a file: enter <get filename user||fromUser>
+- To download a file: enter "get filename user||fromUser"
 
-- To share a file: eneter <share filename userToShare>
+- To share a file: eneter "share filename userToShare"
 
-- To view the files: enter <view>
+- To view the files: enter "view"
 
-- To logout: enter <logout>
+- To logout: enter "logout"
 
-- To quit the application: <quit>
+- To quit the application: "quit"
 
 
 Note
